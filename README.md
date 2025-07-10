@@ -12,3 +12,5 @@ npm run dev
 
 - Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 - Open [http://localhost:3000/studio](http://localhost:3000/studio) to edit content.
+
+Certificate https://www.sanity.io/learn/course/content-driven-web-application-foundations/share/gMCrbrqGn?utm_campaign=course_completed&utm_medium=social&utm_source=copy_link
